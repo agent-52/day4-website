@@ -81,7 +81,7 @@ tl.fromTo(".coca",{
   start:"-149% 30%",
   end:"120% bottom",
   // pin:".coca",
-  markers:true
+  // markers:true
 }})
 
 
